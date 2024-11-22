@@ -17,6 +17,6 @@ cd "$ARTICLE_NAME" || exit 2
 
 cd ../..
 
-printf "\n<url><loc>https://fanaro.io/articles/$ARTICLE_NAME/$ARTICLE_NAME.html</loc></url>" >> sitemap.xml
+printf "\n<url><loc>https://psygo.github.io/fanaro.io//articles/$ARTICLE_NAME/$ARTICLE_NAME.html</loc></url>" >>sitemap.xml
 
 exit 0

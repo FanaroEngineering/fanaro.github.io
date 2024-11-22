@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fanaro.io"><img src="assets/logo_400.png" height="100px" alt="Logo" /></a>
+  <a href="https://psygo.github.io/fanaro.io/"><img src="assets/logo_400.png" height="100px" alt="Logo" /></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ It was meant to be a [single-page application (SPA)][spa] &mdash; Angular style 
 
 
 [fanaro.com.br]: https://fanaro.com.br
-[fanaro.io]: https://fanaro.io
+[fanaro.io]: https://psygo.github.io/fanaro.io/
 [gh_pages]: https://pages.github.com/
 [spa]: https://developer.mozilla.org/en-US/docs/Glossary/SPA
 
