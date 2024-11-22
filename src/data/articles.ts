@@ -69,7 +69,7 @@ export default interface Article {
 export const pagesMetadata: Article[] = [
   {
     title: "About Me",
-    link: "/pages/aboutme.html",
+    link: "/fanaro.io/pages/aboutme.html",
     date: Date.UTC(2018, 4, 2),
     languages: [Language.english],
     mainTopic: Topic.meta,
@@ -77,7 +77,7 @@ export const pagesMetadata: Article[] = [
   },
   {
     title: "Sobre Mim",
-    link: "/pages/sobremim.html",
+    link: "/fanaro.io/pages/sobremim.html",
     date: Date.UTC(2018, 4, 2),
     languages: [Language.portuguese],
     mainTopic: Topic.meta,
@@ -85,7 +85,7 @@ export const pagesMetadata: Article[] = [
   },
   {
     title: "My Published Software",
-    link: "/pages/software.html",
+    link: "/fanaro.io/pages/software.html",
     date: Date.UTC(2018, 4, 2),
     languages: [Language.english],
     mainTopic: Topic.engineering,
@@ -93,7 +93,7 @@ export const pagesMetadata: Article[] = [
   },
   {
     title: "Designs",
-    link: "/pages/designs.html",
+    link: "/fanaro.io/pages/designs.html",
     date: Date.UTC(2018, 4, 2),
     languages: [Language.english],
     mainTopic: Topic.design,
@@ -101,7 +101,7 @@ export const pagesMetadata: Article[] = [
   },
   {
     title: "My Competences",
-    link: "/pages/competences.html",
+    link: "/fanaro.io/pages/competences.html",
     date: Date.UTC(2021, 29, 5),
     languages: [Language.english],
     mainTopic: Topic.meta,
@@ -109,7 +109,7 @@ export const pagesMetadata: Article[] = [
   },
   {
     title: "Statistics",
-    link: "/pages/statistics.html",
+    link: "/fanaro.io/pages/statistics.html",
     date: Date.UTC(2021, 1, 6),
     languages: [Language.english],
     mainTopic: Topic.meta,
@@ -120,7 +120,7 @@ export const pagesMetadata: Article[] = [
 export const articlesMetadata: Article[] = [
   {
     title: "Ranking Brasileiro de Go",
-    link: "/articles/rbgo/rbgo.html",
+    link: "/fanaro.io/articles/rbgo/rbgo.html",
     date: Date.UTC(2022, 9, 20),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -128,7 +128,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "EPUB Tsumego Template",
-    link: "/articles/epub_tsumego_template/epub_tsumego_template.html",
+    link: "/fanaro.io/articles/epub_tsumego_template/epub_tsumego_template.html",
     date: Date.UTC(2022, 6, 30),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -136,7 +136,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "How to Watch the NHK Cup Live",
-    link: "/articles/watch_nhk_cup/watch_nhk_cup.html",
+    link: "/fanaro.io/articles/watch_nhk_cup/watch_nhk_cup.html",
     date: Date.UTC(2022, 6, 30),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -144,7 +144,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Standard Go Positions with AI Evaluations",
-    link: "/articles/standard_go_positions_with_ai/standard_go_positions_with_ai.html",
+    link: "/fanaro.io/articles/standard_go_positions_with_ai/standard_go_positions_with_ai.html",
     date: Date.UTC(2021, 11, 28),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -152,7 +152,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Tradução de Como Jogar Go",
-    link: "/articles/traducao_como_jogar_go/traducao_como_jogar_go.html",
+    link: "/fanaro.io/articles/traducao_como_jogar_go/traducao_como_jogar_go.html",
     date: Date.UTC(2021, 11, 17),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -160,7 +160,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Go e Matemática",
-    link: "/articles/go_e_matematica/go_e_matematica.html",
+    link: "/fanaro.io/articles/go_e_matematica/go_e_matematica.html",
     date: Date.UTC(2021, 10, 15),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -168,7 +168,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "DOGemP &mdash; Dojo Online de Go em Português",
-    link: "/articles/dogemp/dogemp.html",
+    link: "/fanaro.io/articles/dogemp/dogemp.html",
     date: Date.UTC(2021, 10, 13),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -176,7 +176,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Meu Twitch | My Twitch | Mon Twitch",
-    link: "/articles/my_twitch/my_twitch.html",
+    link: "/fanaro.io/articles/my_twitch/my_twitch.html",
     date: Date.UTC(2021, 9, 25),
     languages: [Language.portuguese, Language.english, Language.french],
     mainTopic: Topic.meta,
@@ -184,7 +184,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Whatsapp Go Stickers",
-    link: "/articles/go_stickers/go_stickers.html",
+    link: "/fanaro.io/articles/go_stickers/go_stickers.html",
     date: Date.UTC(2021, 9, 21),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -192,7 +192,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Aula de Go com Beatriz Bouchiglioni Neves 25k",
-    link: "/articles/aula_beatriz/aula_beatriz.html",
+    link: "/fanaro.io/articles/aula_beatriz/aula_beatriz.html",
     date: Date.UTC(2021, 8, 10),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -200,7 +200,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Aula de Go com Luís Sato 1k OGS",
-    link: "/articles/aula_sato/aula_sato.html",
+    link: "/fanaro.io/articles/aula_sato/aula_sato.html",
     date: Date.UTC(2021, 7, 29),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -208,7 +208,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Why Play Go: A More Thorough Exploration Than Usual",
-    link: "/articles/why_play_go/why_play_go.html",
+    link: "/fanaro.io/articles/why_play_go/why_play_go.html",
     date: Date.UTC(2021, 7, 11),
     languages: [Language.english, Language.portuguese],
     mainTopic: Topic.go,
@@ -216,7 +216,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Aula de Go com Wang S, Feng 5d",
-    link: "/articles/aula_wang/aula_wang.html",
+    link: "/fanaro.io/articles/aula_wang/aula_wang.html",
     date: Date.UTC(2021, 7, 8),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -224,7 +224,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Pyrrhic Victories and Josekis",
-    link: "/articles/pyrrhic_victories/pyrrhic_victories.html",
+    link: "/fanaro.io/articles/pyrrhic_victories/pyrrhic_victories.html",
     date: Date.UTC(2021, 7, 5),
     languages: [Language.english, Language.portuguese],
     mainTopic: Topic.go,
@@ -232,7 +232,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Aula de Go com Alexandre Amaro 5d",
-    link: "/articles/aula_alexandre_amaro_1/aula_alexandre_amaro_1.html",
+    link: "/fanaro.io/articles/aula_alexandre_amaro_1/aula_alexandre_amaro_1.html",
     date: Date.UTC(2021, 7, 2),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -240,7 +240,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "The Canonical Trick Play & Its Punishment",
-    link: "/articles/canonical_trick_play/canonical_trick_play.html",
+    link: "/fanaro.io/articles/canonical_trick_play/canonical_trick_play.html",
     date: Date.UTC(2021, 6, 26),
     languages: [Language.english, Language.portuguese],
     mainTopic: Topic.go,
@@ -248,7 +248,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "O Mestre de Go, por Yasunari Kawabata | Leitura de Livro",
-    link: "/articles/mestre_de_go/mestre_de_go.html",
+    link: "/fanaro.io/articles/mestre_de_go/mestre_de_go.html",
     date: Date.UTC(2021, 6, 26),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -256,7 +256,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Aula de Go com Eren Sangueve | Convidado Internacional da Angola",
-    link: "/articles/aula_eren/aula_eren.html",
+    link: "/fanaro.io/articles/aula_eren/aula_eren.html",
     date: Date.UTC(2021, 6, 21),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -264,7 +264,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Scripted Classes vs Consulting or Private Lessons",
-    link: "/articles/scripted_classes_vs_private_lessons/scripted_classes_vs_private_lessons.html",
+    link: "/fanaro.io/articles/scripted_classes_vs_private_lessons/scripted_classes_vs_private_lessons.html",
     date: Date.UTC(2021, 6, 18),
     languages: [Language.english, Language.portuguese],
     mainTopic: Topic.education,
@@ -272,7 +272,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Aula de Problemas de Meio de Jogo",
-    link: "/articles/aula_problemas_meio_de_jogo/aula_problemas_meio_de_jogo.html",
+    link: "/fanaro.io/articles/aula_problemas_meio_de_jogo/aula_problemas_meio_de_jogo.html",
     date: Date.UTC(2021, 6, 11),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -280,7 +280,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Search Engine Index",
-    link: "/articles/search_engines/search_engines.html",
+    link: "/fanaro.io/articles/search_engines/search_engines.html",
     date: Date.UTC(2021, 6, 9),
     languages: [Language.english],
     mainTopic: Topic.productivity,
@@ -288,7 +288,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "How I created my logo",
-    link: "/articles/my_logo/my_logo.html",
+    link: "/fanaro.io/articles/my_logo/my_logo.html",
     date: Date.UTC(2021, 6, 5),
     languages: [Language.english],
     mainTopic: Topic.design,
@@ -296,7 +296,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Fanaro's Sabaki Theme Collection",
-    link: "/articles/fanaro_sabaki_theme_collection/fanaro_sabaki_theme_collection.html",
+    link: "/fanaro.io/articles/fanaro_sabaki_theme_collection/fanaro_sabaki_theme_collection.html",
     date: Date.UTC(2021, 5, 28),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -304,7 +304,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "My Dotfiles",
-    link: "/articles/my_dotfiles/my_dotfiles.html",
+    link: "/fanaro.io/articles/my_dotfiles/my_dotfiles.html",
     date: Date.UTC(2021, 5, 26),
     languages: [Language.english],
     mainTopic: Topic.linux,
@@ -312,7 +312,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "A Jogadora de Go, por Shan Sa | Leitura de Livro",
-    link: "/articles/shan_sa/shan_sa.html",
+    link: "/fanaro.io/articles/shan_sa/shan_sa.html",
     date: Date.UTC(2021, 5, 25),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -320,7 +320,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Aula de Go com Ariel Oliveira",
-    link: "/articles/aula_ariel/aula_ariel.html",
+    link: "/fanaro.io/articles/aula_ariel/aula_ariel.html",
     date: Date.UTC(2021, 5, 22),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -328,7 +328,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "ApocalipseCast #1 &mdash; Browsers",
-    link: "/articles/apocalipse_cast_1/apocalipse_cast_1.html",
+    link: "/fanaro.io/articles/apocalipse_cast_1/apocalipse_cast_1.html",
     date: Date.UTC(2021, 3, 4),
     languages: [Language.portuguese],
     mainTopic: Topic.myYouTubeChannel,
@@ -336,7 +336,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Um Novo Site para a Brasil Nihon Kiin",
-    link: "/articles/novo_site_brnhk/novo_site_brnhk.html",
+    link: "/fanaro.io/articles/novo_site_brnhk/novo_site_brnhk.html",
     date: Date.UTC(2021, 2, 23),
     languages: [Language.portuguese],
     mainTopic: Topic.myYouTubeChannel,
@@ -344,7 +344,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Introdução ao Meu Canal de YouTube",
-    link: "/articles/introducao_ao_meu_canal/introducao_ao_meu_canal.html",
+    link: "/fanaro.io/articles/introducao_ao_meu_canal/introducao_ao_meu_canal.html",
     date: Date.UTC(2021, 2, 22),
     languages: [Language.portuguese],
     mainTopic: Topic.myYouTubeChannel,
@@ -352,7 +352,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Laziness vs Eagerness in Dart",
-    link: "/articles/laziness_vs_eagerness_dart/laziness_vs_eagerness_dart.html",
+    link: "/fanaro.io/articles/laziness_vs_eagerness_dart/laziness_vs_eagerness_dart.html",
     date: Date.UTC(2021, 2, 11),
     languages: [Language.english],
     mainTopic: Topic.programming,
@@ -360,7 +360,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "DIY Scan Station",
-    link: "/articles/diy_scan_station/diy_scan_station.html",
+    link: "/fanaro.io/articles/diy_scan_station/diy_scan_station.html",
     date: Date.UTC(2021, 1, 14),
     languages: [Language.english],
     mainTopic: Topic.productivity,
@@ -368,7 +368,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "FIC: Fast Immutable Collections, for Dart",
-    link: "/articles/fic/fic.html",
+    link: "/fanaro.io/articles/fic/fic.html",
     date: Date.UTC(2021, 1, 6),
     languages: [Language.english],
     mainTopic: Topic.programming,
@@ -376,7 +376,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Guia Completo de Contagem de Pontos",
-    link: "/articles/contagem_guia_completo/contagem_guia_completo.html",
+    link: "/fanaro.io/articles/contagem_guia_completo/contagem_guia_completo.html",
     date: Date.UTC(2021, 0, 12),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -384,7 +384,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "A Github Table of Contents Hack",
-    link: "/articles/github_toc_hack/github_toc_hack.html",
+    link: "/fanaro.io/articles/github_toc_hack/github_toc_hack.html",
     date: Date.UTC(2021, 0, 5),
     languages: [Language.english],
     mainTopic: Topic.design,
@@ -392,7 +392,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Murugandi's Fighting Spirit Design",
-    link: "/articles/murugandi/murugandi.html",
+    link: "/fanaro.io/articles/murugandi/murugandi.html",
     date: Date.UTC(2020, 11, 21),
     languages: [Language.english, Language.portuguese],
     mainTopic: Topic.go,
@@ -400,7 +400,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "My New Website | Meu Novo Site",
-    link: "/articles/new_site/new_site.html",
+    link: "/fanaro.io/articles/new_site/new_site.html",
     date: Date.UTC(2020, 11, 20),
     languages: [Language.english, Language.portuguese],
     mainTopic: Topic.meta,
@@ -408,7 +408,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Revisão com Amir Fragman",
-    link: "/articles/revisao_amir/revisao_amir.html",
+    link: "/fanaro.io/articles/revisao_amir/revisao_amir.html",
     date: Date.UTC(2020, 11, 5),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -416,7 +416,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "OGS Kbd Nav",
-    link: "/articles/ogs_kbd_nav/ogs_kbd_nav.html",
+    link: "/fanaro.io/articles/ogs_kbd_nav/ogs_kbd_nav.html",
     date: Date.UTC(2020, 10, 28),
     languages: [Language.english, Language.portuguese],
     mainTopic: Topic.productivity,
@@ -424,7 +424,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Tips and Advice on Go Etiquette",
-    link: "/articles/go_etiquette/go_etiquette.html",
+    link: "/fanaro.io/articles/go_etiquette/go_etiquette.html",
     date: Date.UTC(2020, 10, 22),
     languages: [Language.english, Language.portuguese],
     mainTopic: Topic.go,
@@ -432,7 +432,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "YouTube Kbd Nav",
-    link: "/articles/youtube_kbd_nav/youtube_kbd_nav.html",
+    link: "/fanaro.io/articles/youtube_kbd_nav/youtube_kbd_nav.html",
     date: Date.UTC(2020, 8, 29),
     languages: [Language.english],
     mainTopic: Topic.productivity,
@@ -440,7 +440,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Recursion: Fibonacci in Go?",
-    link: "/articles/recursion_fibonacci_in_go/recursion_fibonacci_in_go.html",
+    link: "/fanaro.io/articles/recursion_fibonacci_in_go/recursion_fibonacci_in_go.html",
     date: Date.UTC(2020, 7, 17),
     languages: [Language.english, Language.portuguese],
     mainTopic: Topic.go,
@@ -448,7 +448,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Tradução de um Vídeo da BIBA Baduk",
-    link: "/articles/traducao_biba/traducao_biba.html",
+    link: "/fanaro.io/articles/traducao_biba/traducao_biba.html",
     date: Date.UTC(2020, 7, 16),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -456,7 +456,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Etimologia da Palavra Carro",
-    link: "/articles/etimologia_carro/etimologia_carro.html",
+    link: "/fanaro.io/articles/etimologia_carro/etimologia_carro.html",
     date: Date.UTC(2020, 7, 11),
     languages: [Language.portuguese],
     mainTopic: Topic.language,
@@ -464,7 +464,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Os Grandes Debates de Joseki: Aula com Thiago Sinji Ramos",
-    link: "/articles/joseki_debates_sinji/joseki_debates_sinji.html",
+    link: "/fanaro.io/articles/joseki_debates_sinji/joseki_debates_sinji.html",
     date: Date.UTC(2020, 7, 7),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -472,7 +472,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Quote #3 - Martin Fowler on Good Code",
-    link: "/articles/quote_3_fowler/quote_3_fowler.html",
+    link: "/fanaro.io/articles/quote_3_fowler/quote_3_fowler.html",
     date: Date.UTC(2020, 5, 28),
     languages: [Language.english],
     mainTopic: Topic.programming,
@@ -480,7 +480,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "DeepL: Traduza Meus Artigos",
-    link: "/articles/deepl/deepl.html",
+    link: "/fanaro.io/articles/deepl/deepl.html",
     date: Date.UTC(2020, 4, 20),
     languages: [Language.portuguese, Language.english, Language.french],
     mainTopic: Topic.language,
@@ -488,7 +488,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: '"Less Code" Print Design',
-    link: "/articles/less_code/less_code.html",
+    link: "/fanaro.io/articles/less_code/less_code.html",
     date: Date.UTC(2020, 3, 19),
     languages: [Language.english],
     mainTopic: Topic.programming,
@@ -496,7 +496,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Print Designs for My Aunt",
-    link: "/articles/design_aunt/design_aunt.html",
+    link: "/fanaro.io/articles/design_aunt/design_aunt.html",
     date: Date.UTC(2020, 3, 18),
     languages: [Language.english],
     mainTopic: Topic.design,
@@ -504,7 +504,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "(My) Dart Katas",
-    link: "/articles/dart_katas/dart_katas.html",
+    link: "/fanaro.io/articles/dart_katas/dart_katas.html",
     date: Date.UTC(2020, 3, 11),
     languages: [Language.english],
     mainTopic: Topic.programming,
@@ -512,7 +512,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Avoid Spaghetti Theming",
-    link: "/articles/spaghetti_theming/spaghetti_theming.html",
+    link: "/fanaro.io/articles/spaghetti_theming/spaghetti_theming.html",
     date: Date.UTC(2020, 3, 4),
     languages: [Language.english],
     mainTopic: Topic.uiUx,
@@ -520,7 +520,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Musashi, Craftsmanship and The Critical Moment",
-    link: "/articles/musashi/musashi.html",
+    link: "/fanaro.io/articles/musashi/musashi.html",
     date: Date.UTC(2020, 3, 1),
     languages: [Language.english],
     mainTopic: Topic.philosophy,
@@ -528,7 +528,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "My Dad's Logo",
-    link: "/articles/dad_logo/dad_logo.html",
+    link: "/fanaro.io/articles/dad_logo/dad_logo.html",
     date: Date.UTC(2020, 3, 1),
     languages: [Language.english],
     mainTopic: Topic.design,
@@ -536,7 +536,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "A Weightlifting Logo",
-    link: "/articles/weightlifting_logo/weightlifting_logo.html",
+    link: "/fanaro.io/articles/weightlifting_logo/weightlifting_logo.html",
     date: Date.UTC(2020, 3, 1),
     languages: [Language.english],
     mainTopic: Topic.design,
@@ -544,7 +544,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Anti Bullshit Bullshit Club",
-    link: "/articles/anti_bullshit_logo/anti_bullshit_logo.html",
+    link: "/fanaro.io/articles/anti_bullshit_logo/anti_bullshit_logo.html",
     date: Date.UTC(2020, 2, 17),
     languages: [Language.english],
     mainTopic: Topic.design,
@@ -552,7 +552,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "DIY Minimalist Portrait",
-    link: "/articles/diy_minimalist_portrait/diy_minimalist_portrait.html",
+    link: "/fanaro.io/articles/diy_minimalist_portrait/diy_minimalist_portrait.html",
     date: Date.UTC(2020, 1, 26),
     languages: [Language.english],
     mainTopic: Topic.design,
@@ -560,7 +560,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Please Stop this Fallacy",
-    link: "/articles/fallacy_against_communism/fallacy_against_communism.html",
+    link: "/fanaro.io/articles/fallacy_against_communism/fallacy_against_communism.html",
     date: Date.UTC(2020, 1, 10),
     languages: [Language.english],
     mainTopic: Topic.logic,
@@ -568,7 +568,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "My Twitter: @PFanaro",
-    link: "/articles/my_twitter/my_twitter.html",
+    link: "/fanaro.io/articles/my_twitter/my_twitter.html",
     date: Date.UTC(2020, 0, 20),
     languages: [Language.english],
     mainTopic: Topic.social,
@@ -576,7 +576,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "KG-LBS Converter",
-    link: "/articles/kg_lbs_converter/kg_lbs_converter.html",
+    link: "/fanaro.io/articles/kg_lbs_converter/kg_lbs_converter.html",
     date: Date.UTC(2019, 11, 30),
     languages: [Language.english],
     mainTopic: Topic.math,
@@ -584,7 +584,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Universal Principles of Design",
-    link: "/articles/universal_principles_design/universal_principles_design.html",
+    link: "/fanaro.io/articles/universal_principles_design/universal_principles_design.html",
     date: Date.UTC(2019, 11, 2),
     languages: [Language.english],
     mainTopic: Topic.design,
@@ -592,7 +592,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Quote #2 - Stalin on Elections",
-    link: "/articles/quote_2_stalin/quote_2_stalin.html",
+    link: "/fanaro.io/articles/quote_2_stalin/quote_2_stalin.html",
     date: Date.UTC(2019, 10, 18),
     languages: [Language.english],
     mainTopic: Topic.politics,
@@ -606,7 +606,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Quote #1 - Dorothy Parker on What Writing Is",
-    link: "/articles/quote_1_parker/quote_1_parker.html",
+    link: "/fanaro.io/articles/quote_1_parker/quote_1_parker.html",
     date: Date.UTC(2019, 11, 2),
     languages: [Language.english],
     mainTopic: Topic.writing,
@@ -614,7 +614,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Tetris Go",
-    link: "/articles/tetris_go/tetris_go.html",
+    link: "/fanaro.io/articles/tetris_go/tetris_go.html",
     date: Date.UTC(2019, 8, 7),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -622,7 +622,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Scrum (Part 2)",
-    link: "/articles/scrum_2/scrum_2.html",
+    link: "/fanaro.io/articles/scrum_2/scrum_2.html",
     date: Date.UTC(2019, 8, 3),
     languages: [Language.english],
     mainTopic: Topic.productivity,
@@ -630,7 +630,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Simão Gonçalves [4-5d EGF] vs Philippe Fanaro [2k-2d KGS]",
-    link: "/articles/simao_goncalves_vs_philippe_fanaro/simao_goncalves_vs_philippe_fanaro.html",
+    link: "/fanaro.io/articles/simao_goncalves_vs_philippe_fanaro/simao_goncalves_vs_philippe_fanaro.html",
     date: Date.UTC(2019, 8, 1),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -638,7 +638,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Scrum (Part 1)",
-    link: "/articles/scrum_1/scrum_1.html",
+    link: "/fanaro.io/articles/scrum_1/scrum_1.html",
     date: Date.UTC(2019, 7, 21),
     languages: [Language.english],
     mainTopic: Topic.productivity,
@@ -646,7 +646,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Less Pain in the Office",
-    link: "/articles/less_pain_office/less_pain_office.html",
+    link: "/fanaro.io/articles/less_pain_office/less_pain_office.html",
     date: Date.UTC(2019, 7, 3),
     languages: [Language.english],
     mainTopic: Topic.health,
@@ -654,7 +654,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "My VS Code Settings",
-    link: "/articles/my_vs_code_settings/my_vs_code_settings.html",
+    link: "/fanaro.io/articles/my_vs_code_settings/my_vs_code_settings.html",
     date: Date.UTC(2019, 6, 28),
     languages: [Language.english],
     mainTopic: Topic.programming,
@@ -662,7 +662,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Fluent Forever",
-    link: "/articles/fluent_forever/fluent_forever.html",
+    link: "/fanaro.io/articles/fluent_forever/fluent_forever.html",
     date: Date.UTC(2019, 6, 4),
     languages: [Language.english],
     mainTopic: Topic.language,
@@ -670,7 +670,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Macunaíma",
-    link: "/articles/macunaima/macunaima.html",
+    link: "/fanaro.io/articles/macunaima/macunaima.html",
     date: Date.UTC(2019, 5, 21),
     languages: [Language.portuguese],
     mainTopic: Topic.literature,
@@ -678,7 +678,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Negative Language: WHY you should avoid it",
-    link: "/articles/negative_language/negative_language.html",
+    link: "/fanaro.io/articles/negative_language/negative_language.html",
     date: Date.UTC(2019, 6, 11),
     languages: [Language.english],
     mainTopic: Topic.psychology,
@@ -686,7 +686,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Say Hello to My AI Friend",
-    link: "/articles/say_hello_to_my_ai_friend/say_hello_to_my_ai_friend.html",
+    link: "/fanaro.io/articles/say_hello_to_my_ai_friend/say_hello_to_my_ai_friend.html",
     date: Date.UTC(2019, 4, 11),
     languages: [Language.portuguese, Language.english],
     mainTopic: Topic.go,
@@ -694,7 +694,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Quase Morrendo | Tygem 3",
-    link: "/articles/tygem_3/tygem_3.html",
+    link: "/fanaro.io/articles/tygem_3/tygem_3.html",
     date: Date.UTC(2019, 4, 2),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -702,7 +702,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Quadra Molhada? Sem problemas.",
-    link: "/articles/quadra_molhada/quadra_molhada.html",
+    link: "/fanaro.io/articles/quadra_molhada/quadra_molhada.html",
     date: Date.UTC(2019, 3, 30),
     languages: [Language.portuguese],
     mainTopic: Topic.comedy,
@@ -710,7 +710,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Cabeçada | Tygem 2",
-    link: "/articles/tygem_2/tygem_2.html",
+    link: "/fanaro.io/articles/tygem_2/tygem_2.html",
     date: Date.UTC(2019, 3, 12),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -718,7 +718,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Grupos Fracos Para Todo Lado | Tygem 1",
-    link: "/articles/tygem_1/tygem_1.html",
+    link: "/fanaro.io/articles/tygem_1/tygem_1.html",
     date: Date.UTC(2019, 3, 3),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -726,7 +726,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Formulário e Estatísticas sobre o Go Brasileiro",
-    link: "/articles/estatisticas_go_br/estatisticas_go_br.html",
+    link: "/fanaro.io/articles/estatisticas_go_br/estatisticas_go_br.html",
     date: Date.UTC(2019, 2, 26),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -734,7 +734,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "The Essential Guide to Keyboards",
-    link: "/articles/kbd_guide/kbd_guide.html",
+    link: "/fanaro.io/articles/kbd_guide/kbd_guide.html",
     date: Date.UTC(2019, 2, 20),
     languages: [Language.english],
     mainTopic: Topic.productivity,
@@ -742,7 +742,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Fundamentos de Go &mdash; Tsumegos Parte II",
-    link: "/articles/tsumegos_2/tsumegos_2.html",
+    link: "/fanaro.io/articles/tsumegos_2/tsumegos_2.html",
     date: Date.UTC(2019, 2, 19),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -750,7 +750,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Fundamentos de Go &mdash; Tsumegos Parte I",
-    link: "/articles/tsumegos_1/tsumegos_1.html",
+    link: "/fanaro.io/articles/tsumegos_1/tsumegos_1.html",
     date: Date.UTC(2019, 2, 11),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -758,7 +758,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "The KDD 2009 Data Science Challenge",
-    link: "/articles/kdd_2009/kdd_2009.html",
+    link: "/fanaro.io/articles/kdd_2009/kdd_2009.html",
     date: Date.UTC(2019, 1, 27),
     languages: [Language.english],
     mainTopic: Topic.dataScience,
@@ -766,7 +766,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Mini-Jogos de Go",
-    link: "/articles/mini_jogos_go/mini_jogos_go.html",
+    link: "/fanaro.io/articles/mini_jogos_go/mini_jogos_go.html",
     date: Date.UTC(2019, 1, 12),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -774,7 +774,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Some Interesting Go Statistics",
-    link: "/articles/go_statistics/go_statistics.html",
+    link: "/fanaro.io/articles/go_statistics/go_statistics.html",
     date: Date.UTC(2018, 11, 26),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -782,7 +782,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "The Pocket Fuseki Encyclopedia",
-    link: "/articles/fuseki_encyclopedia/fuseki_encyclopedia.html",
+    link: "/fanaro.io/articles/fuseki_encyclopedia/fuseki_encyclopedia.html",
     date: Date.UTC(2018, 11, 24),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -790,7 +790,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "The Left Hand of Darkness, and SciFi",
-    link: "/articles/left_hand_of_darkness/left_hand_of_darkness.html",
+    link: "/fanaro.io/articles/left_hand_of_darkness/left_hand_of_darkness.html",
     date: Date.UTC(2018, 11, 20),
     languages: [Language.english],
     mainTopic: Topic.literature,
@@ -798,7 +798,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Fundamentos de Go: Outros Fusekis",
-    link: "/articles/outros_fusekis/outros_fusekis.html",
+    link: "/fanaro.io/articles/outros_fusekis/outros_fusekis.html",
     date: Date.UTC(2018, 11, 10),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -806,7 +806,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Critique de Livre: Le Potentiel Érotique de Ma Femme",
-    link: "/articles/potentiel_erotique/potentiel_erotique.html",
+    link: "/fanaro.io/articles/potentiel_erotique/potentiel_erotique.html",
     date: Date.UTC(2018, 11, 4),
     languages: [Language.french, Language.english, Language.portuguese],
     mainTopic: Topic.literature,
@@ -814,7 +814,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Fundamentos de Go: Fusekis com 3-4 Parte II",
-    link: "/articles/fuseki_34_2/fuseki_34_2.html",
+    link: "/fanaro.io/articles/fuseki_34_2/fuseki_34_2.html",
     date: Date.UTC(2018, 11, 3),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -823,7 +823,7 @@ export const articlesMetadata: Article[] = [
   {
     title:
       "Statistics: Paid Apps vs Free Apps? Expensive Wines vs Cheap Wines?",
-    link: "/articles/statistics_apps_wines/statistics_apps_wines.html",
+    link: "/fanaro.io/articles/statistics_apps_wines/statistics_apps_wines.html",
     date: Date.UTC(2018, 10, 27),
     languages: [Language.english],
     mainTopic: Topic.statistics,
@@ -831,7 +831,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Fundamentos de Go: Fusekis com 3-4 Parte I",
-    link: "/articles/fuseki_34_1/fuseki_34_1.html",
+    link: "/fanaro.io/articles/fuseki_34_1/fuseki_34_1.html",
     date: Date.UTC(2018, 10, 26),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -839,7 +839,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Fundamentos de Go: Fusekis com 4-4",
-    link: "/articles/fuseki_44/fuseki_44.html",
+    link: "/fanaro.io/articles/fuseki_44/fuseki_44.html",
     date: Date.UTC(2018, 10, 21),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -847,7 +847,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "On Korea: A Brief Summary of My Experience",
-    link: "/articles/on_korea/on_korea.html",
+    link: "/fanaro.io/articles/on_korea/on_korea.html",
     date: Date.UTC(2018, 10, 10),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -862,7 +862,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Revisão: Philippe Fanaro [1d] vs Carlos Dutra [?k]",
-    link: "/articles/revisao_carlos/revisao_carlos.html",
+    link: "/fanaro.io/articles/revisao_carlos/revisao_carlos.html",
     date: Date.UTC(2018, 10, 3),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -870,7 +870,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Ali Trump and the 40 Ghost Supporters",
-    link: "/articles/trump_40_supporters/trump_40_supporters.html",
+    link: "/fanaro.io/articles/trump_40_supporters/trump_40_supporters.html",
     date: Date.UTC(2018, 9, 30),
     languages: [Language.english],
     mainTopic: Topic.statistics,
@@ -878,7 +878,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Copa do Brasil 2018: Uyama Hissao [Kiin 7d]",
-    link: "/articles/revisao_uyama/revisao_uyama.html",
+    link: "/fanaro.io/articles/revisao_uyama/revisao_uyama.html",
     date: Date.UTC(2018, 9, 30),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -886,7 +886,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "My deeplearning.ai Experience",
-    link: "/articles/deeplearning.ai/deeplearning.ai.html",
+    link: "/fanaro.io/articles/deeplearning.ai/deeplearning.ai.html",
     date: Date.UTC(2018, 9, 20),
     languages: [Language.english],
     mainTopic: Topic.dataScience,
@@ -894,7 +894,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Fundamentos de Go: Abertura ou Fuseki (Nível Básico)",
-    link: "/articles/fuseki_basico/fuseki_basico.html",
+    link: "/fanaro.io/articles/fuseki_basico/fuseki_basico.html",
     date: Date.UTC(2018, 9, 16),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -902,7 +902,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Eleições 2018: Por Mais Sanidade",
-    link: "/articles/eleicoes_2018/eleicoes_2018.html",
+    link: "/fanaro.io/articles/eleicoes_2018/eleicoes_2018.html",
     date: Date.UTC(2018, 9, 14),
     languages: [Language.portuguese],
     mainTopic: Topic.politics,
@@ -910,7 +910,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Copa do Brasil 2018: Ronaldo Matayoshi",
-    link: "/articles/revisao_matayoshi/revisao_matayoshi.html",
+    link: "/fanaro.io/articles/revisao_matayoshi/revisao_matayoshi.html",
     date: Date.UTC(2018, 8, 29),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -918,7 +918,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "The Power of Neural Networks: Simple Wage Predictions with Keras",
-    link: "/articles/wage_pred/wage_pred.html",
+    link: "/fanaro.io/articles/wage_pred/wage_pred.html",
     date: Date.UTC(2018, 8, 27),
     languages: [Language.english],
     mainTopic: Topic.dataScience,
@@ -926,7 +926,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Copa do Brasil 2018: Murao Yoshihisa",
-    link: "/articles/revisao_murao/revisao_murao.html",
+    link: "/fanaro.io/articles/revisao_murao/revisao_murao.html",
     date: Date.UTC(2018, 8, 21),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -934,7 +934,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Revisão No Seongho [Tygem 8d]",
-    link: "/articles/revisao_no_seongho/revisao_no_seongho.html",
+    link: "/fanaro.io/articles/revisao_no_seongho/revisao_no_seongho.html",
     date: Date.UTC(2018, 8, 11),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -942,7 +942,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "The ATP Dataset and The Filthy Rich Tennis Players",
-    link: "/articles/atp/atp.html",
+    link: "/fanaro.io/articles/atp/atp.html",
     date: Date.UTC(2018, 8, 7),
     languages: [Language.english],
     mainTopic: Topic.dataScience,
@@ -950,7 +950,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Python Basics, Eratosthenes and Problem 51",
-    link: "/articles/eratos/eratos.html",
+    link: "/fanaro.io/articles/eratos/eratos.html",
     date: Date.UTC(2018, 7, 30),
     languages: [Language.english],
     mainTopic: Topic.programming,
@@ -958,7 +958,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Meu Artigo para a Revista Myosu",
-    link: "/articles/myosu_1/myosu_1.html",
+    link: "/fanaro.io/articles/myosu_1/myosu_1.html",
     date: Date.UTC(2018, 7, 28),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -966,7 +966,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Telecom Nostalgia and Python Basics",
-    link: "/articles/telecom_nostalgia/telecom_nostalgia.html",
+    link: "/fanaro.io/articles/telecom_nostalgia/telecom_nostalgia.html",
     date: Date.UTC(2018, 7, 28),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -974,7 +974,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Reenter the Dragon: Engineering",
-    link: "/articles/reenter_engineering/reenter_engineering.html",
+    link: "/fanaro.io/articles/reenter_engineering/reenter_engineering.html",
     date: Date.UTC(2018, 7, 15),
     languages: [Language.english],
     mainTopic: Topic.engineering,
@@ -982,7 +982,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "O Tesuji-Mor",
-    link: "/articles/tesuji_mor/tesuji_mor.html",
+    link: "/fanaro.io/articles/tesuji_mor/tesuji_mor.html",
     date: Date.UTC(2018, 7, 20),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -990,7 +990,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Problema Profissional Nível 20k",
-    link: "/articles/tsumego_pro_20k/tsumego_pro_20k.html",
+    link: "/fanaro.io/articles/tsumego_pro_20k/tsumego_pro_20k.html",
     date: Date.UTC(2018, 7, 10),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -998,7 +998,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Casey at the Bat",
-    link: "/articles/casey_at_the_bat/casey_at_the_bat.html",
+    link: "/fanaro.io/articles/casey_at_the_bat/casey_at_the_bat.html",
     date: Date.UTC(2018, 7, 7),
     languages: [Language.english],
     mainTopic: Topic.literature,
@@ -1006,7 +1006,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "A Guide to Go AI Programs",
-    link: "/articles/guide_ai/guide_ai.html",
+    link: "/fanaro.io/articles/guide_ai/guide_ai.html",
     date: Date.UTC(2018, 6, 30),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -1014,7 +1014,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Sunjang Baduk",
-    link: "/articles/sunjang/sunjang.html",
+    link: "/fanaro.io/articles/sunjang/sunjang.html",
     date: Date.UTC(2018, 7, 2),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1023,7 +1023,7 @@ export const articlesMetadata: Article[] = [
   {
     title:
       "CLL&M &mdash; Jean Jaurès, a Esquerda Francesa do Final do Século XIX",
-    link: "/articles/esquerda_francesa_xix/esquerda_francesa_xix.html",
+    link: "/fanaro.io/articles/esquerda_francesa_xix/esquerda_francesa_xix.html",
     date: Date.UTC(2018, 6, 27),
     languages: [Language.portuguese, Language.french],
     mainTopic: Topic.history,
@@ -1031,7 +1031,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Quebra-Cabeça de Go",
-    link: "/articles/quebra_cabeca_go/quebra_cabeca_go.html",
+    link: "/fanaro.io/articles/quebra_cabeca_go/quebra_cabeca_go.html",
     date: Date.UTC(2018, 6, 23),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1039,7 +1039,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "A Origem dos Cartões",
-    link: "/articles/origem_cartoes/origem_cartoes.html",
+    link: "/fanaro.io/articles/origem_cartoes/origem_cartoes.html",
     date: Date.UTC(2018, 6, 15),
     languages: [Language.portuguese],
     mainTopic: Topic.sports,
@@ -1047,7 +1047,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Como Digitar Sem Olhar e Mais Rápido em 5 Minutos!",
-    link: "/articles/como_digitar/como_digitar.html",
+    link: "/fanaro.io/articles/como_digitar/como_digitar.html",
     date: Date.UTC(2018, 6, 19),
     languages: [Language.portuguese],
     mainTopic: Topic.productivity,
@@ -1055,7 +1055,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Guia de Inteligências Artificiais de Go",
-    link: "/articles/guia_ia/guia_ia.html",
+    link: "/fanaro.io/articles/guia_ia/guia_ia.html",
     date: Date.UTC(2018, 6, 12),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1064,7 +1064,7 @@ export const articlesMetadata: Article[] = [
   {
     title:
       "Collection Littéraire L&M Parte II &mdash; Como entrar para a Academia Francesa",
-    link: "/articles/tristan_bernard/tristan_bernard.html",
+    link: "/fanaro.io/articles/tristan_bernard/tristan_bernard.html",
     date: Date.UTC(2018, 6, 7),
     languages: [Language.portuguese, Language.french],
     mainTopic: Topic.literature,
@@ -1073,7 +1073,7 @@ export const articlesMetadata: Article[] = [
   {
     title:
       "Revisão pelo Patreon: Efraim Queiroz, Comandante das Estrelas da Morte",
-    link: "/articles/revisao_efraim/revisao_efraim.html",
+    link: "/fanaro.io/articles/revisao_efraim/revisao_efraim.html",
     date: Date.UTC(2018, 6, 3),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1081,7 +1081,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Collection Littéraire Lagarde & Michard Parte I: Poesia",
-    link: "/articles/cllm_poesia/cllm_poesia.html",
+    link: "/fanaro.io/articles/cllm_poesia/cllm_poesia.html",
     date: Date.UTC(2018, 5, 31),
     languages: [Language.portuguese, Language.french],
     mainTopic: Topic.literature,
@@ -1089,7 +1089,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "A Lenda de Nestor de la Palissade",
-    link: "/articles/nestor_de_la_palissade/nestor_de_la_palissade.html",
+    link: "/fanaro.io/articles/nestor_de_la_palissade/nestor_de_la_palissade.html",
     date: Date.UTC(2018, 5, 28),
     languages: [Language.portuguese, Language.french],
     mainTopic: Topic.go,
@@ -1097,7 +1097,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "A Polêmica do VAR",
-    link: "/articles/var_polemica/var_polemica.html",
+    link: "/fanaro.io/articles/var_polemica/var_polemica.html",
     date: Date.UTC(2018, 5, 24),
     languages: [Language.portuguese],
     mainTopic: Topic.sports,
@@ -1105,7 +1105,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Tradução de um Livro Clássico do Go",
-    link: "/articles/toshiro/toshiro.html",
+    link: "/fanaro.io/articles/toshiro/toshiro.html",
     date: Date.UTC(2018, 5, 21),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1113,7 +1113,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Aula pelo Patreon: Philippe Fanaro [1d] vs Augusto Cezar [14k]",
-    link: "/articles/revisao_augusto/revisao_augusto.html",
+    link: "/fanaro.io/articles/revisao_augusto/revisao_augusto.html",
     date: Date.UTC(2018, 5, 17),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1121,7 +1121,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "26 Ovelhas e 10 Bodes: Qual a Idade do Capitão?",
-    link: "/articles/qual_idade_capitao/qual_idade_capitao.html",
+    link: "/fanaro.io/articles/qual_idade_capitao/qual_idade_capitao.html",
     date: Date.UTC(2018, 5, 15),
     languages: [Language.portuguese],
     mainTopic: Topic.logic,
@@ -1129,7 +1129,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Revisão Diogo Barbosa [Melhor 4k do Mundo]",
-    link: "/articles/revisao_diogo/revisao_diogo.html",
+    link: "/fanaro.io/articles/revisao_diogo/revisao_diogo.html",
     date: Date.UTC(2018, 5, 10),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1137,7 +1137,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "O Problema de Monty Hall",
-    link: "/articles/monty_hall/monty_hall.html",
+    link: "/fanaro.io/articles/monty_hall/monty_hall.html",
     date: Date.UTC(2018, 5, 9),
     languages: [Language.portuguese],
     mainTopic: Topic.statistics,
@@ -1145,7 +1145,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "The Insufficiency of the Right (and, therefore, of the Left?)",
-    link: "/articles/inequality/inequality.html",
+    link: "/fanaro.io/articles/inequality/inequality.html",
     date: Date.UTC(2018, 5, 8),
     languages: [Language.english],
     mainTopic: Topic.economy,
@@ -1153,7 +1153,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "4-Color Go",
-    link: "/articles/4_color_go/4_color_go.html",
+    link: "/fanaro.io/articles/4_color_go/4_color_go.html",
     date: Date.UTC(2018, 5, 6),
     languages: [Language.english],
     mainTopic: Topic.go,
@@ -1161,7 +1161,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Go de 4 Cores",
-    link: "/articles/4_cores_go/4_cores_go.html",
+    link: "/fanaro.io/articles/4_cores_go/4_cores_go.html",
     date: Date.UTC(2018, 5, 4),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1169,7 +1169,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Voto Branco, Voto Nulo e a Crise da Democracia",
-    link: "/articles/votos/votos.html",
+    link: "/fanaro.io/articles/votos/votos.html",
     date: Date.UTC(2018, 5, 2),
     languages: [Language.portuguese],
     mainTopic: Topic.politics,
@@ -1177,7 +1177,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Pocket Guide to Yose",
-    link: "/articles/pocket_yose/pocket_yose.html",
+    link: "/fanaro.io/articles/pocket_yose/pocket_yose.html",
     date: Date.UTC(2018, 4, 31),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1185,7 +1185,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "A Solution to Frauds in Digital (Electoral) Voting: Beyond Safety",
-    link: "/articles/electoral_fraud_solution/electoral_fraud_solution.html",
+    link: "/fanaro.io/articles/electoral_fraud_solution/electoral_fraud_solution.html",
     date: Date.UTC(2018, 4, 30),
     languages: [Language.portuguese],
     mainTopic: Topic.cryptography,
@@ -1193,7 +1193,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Guia de Bolso do Yose",
-    link: "/articles/guia_yose/guia_yose.html",
+    link: "/fanaro.io/articles/guia_yose/guia_yose.html",
     date: Date.UTC(2018, 4, 29),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1201,7 +1201,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Regras Chinesas",
-    link: "/articles/regras_chinesas/regras_chinesas.html",
+    link: "/fanaro.io/articles/regras_chinesas/regras_chinesas.html",
     date: Date.UTC(2018, 4, 26),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1209,7 +1209,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "My Brief Trip to Amsterdam: Red Lights, Go and Biblical Flirting",
-    link: "/articles/amsterdam/amsterdam.html",
+    link: "/fanaro.io/articles/amsterdam/amsterdam.html",
     date: Date.UTC(2018, 4, 25),
     languages: [Language.portuguese],
     mainTopic: Topic.writing,
@@ -1217,7 +1217,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Revisão de Mais Alto Nível (2d vs 2k com 3 pedras de compensação)",
-    link: "/articles/revisao_laercio/revisao_laercio.html",
+    link: "/fanaro.io/articles/revisao_laercio/revisao_laercio.html",
     date: Date.UTC(2018, 4, 24),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1225,7 +1225,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "A Insuficiência da Direita (e, por consequência, da Esquerda?)",
-    link: "/articles/insuficiencia_direita/insuficiencia_direita.html",
+    link: "/fanaro.io/articles/insuficiencia_direita/insuficiencia_direita.html",
     date: Date.UTC(2018, 4, 20),
     languages: [Language.portuguese],
     mainTopic: Topic.politics,
@@ -1233,7 +1233,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Um vídeo antigo sobre o livro Os Grandes Debates de Josekis",
-    link: "/articles/sinji_great_joseki_debates/sinji_great_joseki_debates.html",
+    link: "/fanaro.io/articles/sinji_great_joseki_debates/sinji_great_joseki_debates.html",
     date: Date.UTC(2018, 4, 19),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1241,7 +1241,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Duas Partidas 7k Revisadas",
-    link: "/articles/revisao_7k/revisao_7k.html",
+    link: "/fanaro.io/articles/revisao_7k/revisao_7k.html",
     date: Date.UTC(2018, 4, 17),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1249,7 +1249,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Uma Solução para Fraudes e Manipulações em Votos Digitais",
-    link: "/articles/solucao_fraude_votos/solucao_fraude_votos.html",
+    link: "/fanaro.io/articles/solucao_fraude_votos/solucao_fraude_votos.html",
     date: Date.UTC(2018, 4, 15),
     languages: [Language.portuguese],
     mainTopic: Topic.cryptography,
@@ -1257,7 +1257,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Copa Samsung 2017",
-    link: "/articles/copa_samsung_2017/copa_samsung_2017.html",
+    link: "/fanaro.io/articles/copa_samsung_2017/copa_samsung_2017.html",
     date: Date.UTC(2018, 4, 14),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1265,7 +1265,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Uma Breve Introdução ao Go",
-    link: "/articles/introducao_ao_go/introducao_ao_go.html",
+    link: "/fanaro.io/articles/introducao_ao_go/introducao_ao_go.html",
     date: Date.UTC(2018, 4, 12),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
@@ -1273,7 +1273,7 @@ export const articlesMetadata: Article[] = [
   },
   {
     title: "Fundamentos de Tewari",
-    link: "/articles/tewari/tewari.html",
+    link: "/fanaro.io/articles/tewari/tewari.html",
     date: Date.UTC(2018, 4, 12),
     languages: [Language.portuguese],
     mainTopic: Topic.go,
