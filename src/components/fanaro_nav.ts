@@ -4,7 +4,7 @@ export default class FanaroNav extends HTMLElement {
   private static readonly template: string = `  
     <nav>
       <a href="/">
-        <img height="50" src="/assets/logo_400.png" />
+        <img height="50" src="/fanaro.io/assets/logo_400.png" />
         <h1>fanaro.io</h1>
       </a>
     </nav>
