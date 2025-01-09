@@ -3,7 +3,7 @@ export default class FanaroNav extends HTMLElement {
 
   private static readonly template: string = `  
     <nav>
-      <a href="/">
+      <a href="/fanaro.io/">
         <img height="50" src="/fanaro.io/assets/logo_400.png" />
         <h1>fanaro.io</h1>
       </a>
